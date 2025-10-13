@@ -1,0 +1,14 @@
+F:\Sites\c-sharp-project-1\HelloThere\bin\Debug\net9.0\HelloThere.exe
+F:\Sites\c-sharp-project-1\HelloThere\bin\Debug\net9.0\HelloThere.deps.json
+F:\Sites\c-sharp-project-1\HelloThere\bin\Debug\net9.0\HelloThere.runtimeconfig.json
+F:\Sites\c-sharp-project-1\HelloThere\bin\Debug\net9.0\HelloThere.dll
+F:\Sites\c-sharp-project-1\HelloThere\bin\Debug\net9.0\HelloThere.pdb
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.AssemblyInfoInputs.cache
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.AssemblyInfo.cs
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.csproj.CoreCompileInputs.cache
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.dll
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\refint\HelloThere.dll
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.pdb
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.genruntimeconfig.cache
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\ref\HelloThere.dll
