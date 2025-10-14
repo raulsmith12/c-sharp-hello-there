@@ -12,3 +12,4 @@ F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\refint\HelloThere.dll
 F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.pdb
 F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.genruntimeconfig.cache
 F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\ref\HelloThere.dll
+F:\Sites\c-sharp-project-1\HelloThere\obj\Debug\net9.0\HelloThere.sourcelink.json

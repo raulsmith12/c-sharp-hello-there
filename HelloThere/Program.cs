@@ -12,5 +12,14 @@ class Program
         string age = Console.ReadLine();
 
         Console.WriteLine($"Hello, {name}, you are {age} years old!");
+
+        int a = 10;
+        int b = 3;
+
+        Console.WriteLine($"a + b = {a + b}");
+        Console.WriteLine($"a - b = {a - b}");
+        Console.WriteLine($"a * b = {a * b}");
+        Console.WriteLine($"a / b = {(double)a / b}");
+        Console.WriteLine($"a % b = {a % b}");
     }
 }
