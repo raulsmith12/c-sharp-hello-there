@@ -1,0 +1,15 @@
+F:\Sites\c-sharp-project-1\UnitConverter\bin\Debug\net9.0\UnitConverter.exe
+F:\Sites\c-sharp-project-1\UnitConverter\bin\Debug\net9.0\UnitConverter.deps.json
+F:\Sites\c-sharp-project-1\UnitConverter\bin\Debug\net9.0\UnitConverter.runtimeconfig.json
+F:\Sites\c-sharp-project-1\UnitConverter\bin\Debug\net9.0\UnitConverter.dll
+F:\Sites\c-sharp-project-1\UnitConverter\bin\Debug\net9.0\UnitConverter.pdb
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.AssemblyInfoInputs.cache
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.AssemblyInfo.cs
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.csproj.CoreCompileInputs.cache
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.sourcelink.json
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.dll
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\refint\UnitConverter.dll
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.pdb
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\UnitConverter.genruntimeconfig.cache
+F:\Sites\c-sharp-project-1\UnitConverter\obj\Debug\net9.0\ref\UnitConverter.dll
